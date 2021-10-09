@@ -7,3 +7,6 @@
 [submodule "packages/calculate-margin"]
 	path = packages/calculate-margin
 	url = git@github.com:suenot/calculate-margin.git
+[submodule "packages/sleep"]
+	path = packages/sleep
+	url = git@github.com:suenot/sleep.git
