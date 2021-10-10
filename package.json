@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "scripts": {
     "dev": "node_modules/ts-node-dev/lib/bin.js --respawn index.ts",
     "start": "node_modules/ts-node/dist/bin.js index.ts",
