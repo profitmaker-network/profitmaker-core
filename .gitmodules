@@ -1,12 +1,12 @@
 [submodule "packages/calculate-margin-percent"]
 	path = packages/calculate-margin-percent
-	url = git@github.com:suenot/calculate-margin-percent.git
+	url = git@github.com:profitmaker-network/calculate-margin-percent.git
 [submodule "packages/calculate-markup-percent"]
 	path = packages/calculate-markup-percent
-	url = git@github.com:suenot/calculate-markup-percent.git
+	url = git@github.com:profitmaker-network/calculate-markup-percent.git
 [submodule "packages/calculate-margin"]
 	path = packages/calculate-margin
-	url = git@github.com:suenot/calculate-margin.git
+	url = git@github.com:profitmaker-network/calculate-margin.git
 [submodule "packages/sleep"]
 	path = packages/sleep
 	url = git@github.com:suenot/sleep.git
