@@ -2,7 +2,7 @@
 
 #### Клонирование репозитория с субмодулями:
 ```
-git clone --recursive git@github.com:suenot/profitmaker-core.git
+git clone --recursive git@github.com:profitmaker-network/profitmaker-core.git
 
 ```
 
