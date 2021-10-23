@@ -1,0 +1,36 @@
+{
+  "name": "merge-orderbook-with-user-orders",
+  "version": "1.0.0",
+  "description": "Calculate margin of deal",
+  "main": "merge-orderbook-with-user-orders.ts",
+  "scripts": {
+    "dev": "node_modules/ts-node-dev/lib/bin.js --respawn index.ts",
+    "start": "node_modules/ts-node/dist/bin.js index.ts",
+    "test": "jest",
+    "test-dev": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profitmaker-network/merge-orderbook-with-user-orders.git"
+  },
+  "keywords": [
+    "margin",
+    "trade",
+    "calculate"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/profitmaker-network/merge-orderbook-with-user-orders/issues"
+  },
+  "homepage": "https://github.com/profitmaker-network/merge-orderbook-with-user-orders#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/lodash": "^4.14.162",
+    "jest": "^26.6.1",
+    "ts-jest": "^26.4.2",
+    "ts-node": "^9.0.0",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.0.3",
+    "ramda": "^0.27.1"
+  }
+}
