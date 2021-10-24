@@ -7,6 +7,9 @@
 [submodule "packages/calculate-margin"]
 	path = packages/calculate-margin
 	url = git@github.com:profitmaker-network/calculate-margin.git
+[submodule "packages/types-core"]
+	path = packages/types-core
+	url = git@github.com:profitmaker-network/types-core.git
 [submodule "packages/sleep"]
 	path = packages/sleep
 	url = git@github.com:suenot/sleep.git
